@@ -3,7 +3,9 @@ My name is Marina and I am looking for a data science job.
 
 📫 How to reach me:
  💬 [Telegram](t.me/MarinTsv)
+ 
  💬 [Linkedin](https://www.linkedin.com/in/tsvetkova-m/)
+ 
  💬 [Phone](+48664364124)
 <!--
 **Marinatsv07/Marinatsv07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
