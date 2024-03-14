@@ -2,6 +2,7 @@
 My name is Marina and I am looking for a data science job.
 
 📫 How to reach me:
+
  💬 [Telegram](t.me/MarinTsv)
  
  💬 [Linkedin](https://www.linkedin.com/in/tsvetkova-m/)
