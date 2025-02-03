@@ -1,7 +1,7 @@
 ### Hi there 👋
-🔍 Aspiring Data Scientist | Actively Seeking Opportunities
+🔍 Data Scientist | Actively Seeking Opportunities
 
-👋 I'm Marina, living in Poland, a budding Data Scientist with a background in QA.
+👋 I'm Marina, living in Poland, a Data Scientist with a background in QA.
 
 🛠 Tech Stack: Python, SQL, Git, Pandas, SciPy, Keras, CatBoost, Scikit-learn, Machine Learning, Spark, Matplotlib, Seaborn, NumPy, NLP, Neural Networks, TensorFlow, PyTorch, IBM SPSS, PySpark
 
